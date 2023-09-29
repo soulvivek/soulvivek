@@ -1,9 +1,9 @@
-[![MasterHead](https://media0.giphy.com/media/I0e4u216Qhww8eRTVq/giphy.gif?cid=ecf05e4766f84d0kuepg8xfyb712m8ojf8idexoi34se5gzi&ep=v1_gifs_search&rid=giphy.gif&ct=g)]
+<img src="https://media0.giphy.com/media/I0e4u216Qhww8eRTVq/giphy.gif?cid=ecf05e4766f84d0kuepg8xfyb712m8ojf8idexoi34se5gzi&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead" width="1000" height="400">
 <h1 align="center">Hi 👋, I'm vivek</h1>
 <h3 align="center">Passionate Web Application Penetration Tester</h3>
-<div align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhlZ2ZhazFnMTAwNHg0d2Zzb3BpZ3Y0Nm5yMjd2andudnU1d2JqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif" alt="Cool Hacker GIF" width="300" height="300" />
-</div>
+
+  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhlZ2ZhazFnMTAwNHg0d2Zzb3BpZ3Y0Nm5yMjd2andudnU1d2JqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif" alt="Cool Hacker GIF" width="300" height="300" />
+
 
 - 🌱 I’m currently learning **Web application Penetration testing and playing CTF**
 - 💬 Ask me about **cyber security bug bounty**
