@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/I0e4u216Qhww8eRTVq/giphy.gif?cid=ecf05e4766f84d0kuepg8xfyb712m8ojf8idexoi34se5gzi&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead" width="1000" height="400">
+<img src="https://media0.giphy.com/media/I0e4u216Qhww8eRTVq/giphy.gif?cid=ecf05e4766f84d0kuepg8xfyb712m8ojf8idexoi34se5gzi&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead" width="1000" height="300">
 <h1 align="center">Hi 👋, I'm vivek</h1>
 <h3 align="center">Passionate Web Application Penetration Tester</h3>
 
